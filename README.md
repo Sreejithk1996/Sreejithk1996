@@ -5,6 +5,7 @@
 Hello! 👋 I'm Sreejith K, an engineer with a keen interest in software development and coding adventures.
 
 ## 🔧 Skills
+![HTML5_logo_and_wordmark svg](https://github.com/Sreejithk1996/Sreejithk1996/assets/145628733/d81eb610-94c9-4298-8e1f-4e39977c93f9)
 
 - 🌐 HTML5
 - 📝 CSS3
