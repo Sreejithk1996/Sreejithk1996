@@ -4,8 +4,14 @@
 
 Hello! 👋 I'm Sreejith K, an engineer with a keen interest in software development and coding adventures.
 
-## 🔧 Skills
-![HTML5_logo_and_wordmark svg](https://github.com/Sreejithk1996/Sreejithk1996/assets/145628733/d81eb610-94c9-4298-8e1f-4e39977c93f9) ![CSS3_logo_and_wordmark svg](https://github.com/Sreejithk1996/Sreejithk1996/assets/145628733/e72eca18-1b4e-4ea0-aaa9-1dfdfc45d2af) ![JavaScript-logo](https://github.com/Sreejithk1996/Sreejithk1996/assets/145628733/22ad66e3-cfd8-4e22-a68b-dcd313c4e463) ![bootstrap-logo](https://github.com/Sreejithk1996/Sreejithk1996/assets/145628733/7a37ae5b-854e-4918-8a4a-9c74f94ecc43) ![GitHub-Mark-ea2971cee799](https://github.com/Sreejithk1996/Sreejithk1996/assets/145628733/dfe2d72c-49a1-4500-b9b2-b2495a2f69cb)
+## 🔧 Frontend Technologies
+
+![HTML5_logo_and_wordmark svg](https://github.com/Sreejithk1996/Sreejithk1996/assets/145628733/89d21d73-c6a9-4b8d-bcac-87d6ced4feca) ![CSS3_logo_and_wordmark svg (1)](https://github.com/Sreejithk1996/Sreejithk1996/assets/145628733/29c2a503-a1c2-4146-9c21-ba39e0a362fd) ![JavaScript-logo (1)](https://github.com/Sreejithk1996/Sreejithk1996/assets/145628733/ed3828fd-df60-49a5-9833-6b414d1fb761) ![bootstrap-logo (1)](https://github.com/Sreejithk1996/Sreejithk1996/assets/145628733/ec7ec914-e8de-4b58-8030-68ca191f0c02) ![GitHub-Mark-ea2971cee799 (1)](https://github.com/Sreejithk1996/Sreejithk1996/assets/145628733/16a33432-5e55-4d40-83c2-2886fb2f637c)
+
+
+
+
+
 
 
 
