@@ -18,7 +18,11 @@ I'm in the early stages of my coding journey, focusing on Front-end and Back-end
 
 🤝 Let's Connect
 
-I'm open to connecting with fellow developers and enthusiasts. Find me on in/sreejith-k-a73362187 or drop an email on sreekumar1996@gmail.com.
+I'm open to connecting with fellow developers and enthusiasts. drop an email on sreekumar1996@gmail.com.
+<p align="left">
+<a href="https://linkedin.com/in/in/sreejith-k-a73362187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/sreejith-k-a73362187" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/sreejith.kumar.1042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sreejith.kumar.1042" height="30" width="40" /></a>
+</p>
 
 Happy coding! 🚀
 
