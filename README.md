@@ -1,4 +1,4 @@
-<h3>SreejithK</h3>
+<h2>SreejithK</h2>
 
 🌱 Aspiring Software Developer | 💻 Passionate Learner
 
