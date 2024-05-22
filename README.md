@@ -14,7 +14,7 @@ Hello! 👋 I'm Sreejith K, an engineer with a keen interest in software develop
 
 <h3>🌱 Currently Learning</h3>
 
-I'm in the early stages of my coding journey, focusing on Front-end Development. Excited to grow and contribute to the tech community!
+I'm in the early stages of my coding journey, focusing on Front-end and Back-end Development. Excited to grow and contribute to the tech community!
 
 <h3>📚 Education</h3>
 
