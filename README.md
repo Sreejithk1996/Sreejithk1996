@@ -29,7 +29,7 @@ I'm open to connecting with fellow developers and enthusiasts. drop an email on 
 <a href="https://linkedin.com/in/sreejith-k-a73362187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/sreejith-k-a73362187" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sreejith.kumar.1042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sreejith.kumar.1042" height="30" width="40" /></a>
 <a href="https://medium.com/@sreejithk96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sreejithk96" height="30" width="40" /></a>
-
+<a href="https://instagram.com/https://www.instagram.com/sreejitheeyy?igsh=mwhxnm52b2vqb2n4ag%3d%3d&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sreejitheeyy?igsh=mwhxnm52b2vqb2n4ag%3d%3d&utm_source=qr" height="30" width="40" /></a>
 </p>
 
 Happy coding! 🚀
