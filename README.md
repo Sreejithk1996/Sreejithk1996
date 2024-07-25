@@ -2,7 +2,7 @@
 
 🌱 Aspiring Software Developer | 💻 Passionate Learner
 
-Hello! 👋 I'm Sreejith K, an engineer with a keen interest in software development and coding adventures.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreejithk1996&label=Profile%20views&color=0e75b6&style=flat" alt="sreejithk1996" /> </p>
 
